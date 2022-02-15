@@ -33,10 +33,4 @@ Kamu bisa membuat banyak Artikel di Postingan Blog tanpa mengganggu tampilan lan
 
 Kunjungi artikel berikut ini untuk mendapatkan Landing Page Keren yang secara gratis bisa langsung kamu download dan gunakan.
 
-`Download Templates <https://bit.ly/3JHQblr>`_ || `Free Templates <https://clck.ru/auWcb>`_
-
-
-Contents
---------
-
-
+`Download Templates <https://bit.ly/3JHQblr>`_ || `Landing Page Blogger <https://clck.ru/auWcb>`_
