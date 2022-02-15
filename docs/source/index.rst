@@ -39,4 +39,4 @@ Contents
 
 .. toctree::
 
-  https://bit.ly/3JHQblr || https://clck.ru/auWcb
+  `Download Templates <https://bit.ly/3JHQblr>`_ || `Free Templates <https://clck.ru/auWcb>`_
